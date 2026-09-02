@@ -34,17 +34,6 @@ I work across the full stack — React & JavaScript for web, Flutter & Dart for 
 
 ---
 
-### Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Multi-School Platform** (Turkey) | One core system for many schools — course browsing, applications, teacher workflows, AI announcement drafts | React, Supabase, Firebase |
-| **PEVA — Virtual Assistant** | Client & employee portals, request claiming, AI for notes & emails | React, Supabase, Firebase |
-| **Parental Control App** | App blocking, usage timers, family analytics | Flutter, Dart |
-| **Direct Direction Website** | Service site for domestic worker agency | React |
-
----
-
 ### GitHub Stats
 
 | Current Streak | About |
