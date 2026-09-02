@@ -2,6 +2,10 @@
 
 <a href="https://www.linkedin.com/in/sami-ibrahim-370289359/"><img align="right" src="https://github.com/Okami0x0.png" width="140" style="border-radius:50%" /></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+Engineer;Building+web+%26+mobile+apps;React+%7C+Flutter+%7C+Python+%7C+AI;Based+in+Riyadh)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Okami0x0&label=Profile%20views&color=0e75b6&style=flat)
+
 Building web & mobile products that people actually use — from idea to live deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami%20Ibrahim-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sami-ibrahim-370289359/)
