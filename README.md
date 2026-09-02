@@ -38,7 +38,7 @@ I work across the full stack — React & JavaScript for web, Flutter & Dart for 
 
 | Current Streak | About |
 |---|---|
-| ![Streak](https://streak-stats.demolab.com?user=Okami0x0&theme=tokyonight&hide_border=true) | **433+ contributions** in the last year<br/>**2** followers · **6** stars<br/>Active on React, Flutter & Python<br/>Full graph on profile below |
+| ![Streak](https://streak-stats.demolab.com?user=Okami0x0&theme=tokyonight&hide_border=true) | **433+ contributions** in the last year<br/>**2** followers · **6** stars<br/>Active on React, Flutter & Python |
 
 ---
 
