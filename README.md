@@ -52,7 +52,7 @@ I work across the full stack — React & JavaScript for web, Flutter & Dart for 
 ### Reach me
 
 - Riyadh, Saudi Arabia — open to **Software Engineer / Full Stack / IT** roles (onsite preferred, remote ok)
-- Phone: +966 53 574 4182
+- Phone / WhatsApp / Telegram / Viber: +966 53 574 4182
 - LinkedIn: https://www.linkedin.com/in/sami-ibrahim-370289359/
 - Email: sami.yousuf.ibrahim@gmail.com
 
