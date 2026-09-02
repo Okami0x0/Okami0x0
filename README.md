@@ -39,16 +39,12 @@ I work across the full stack — React & JavaScript for web, Flutter & Dart for 
 | **Parental Control App** | App blocking, usage timers, family analytics | Flutter, Dart |
 | **Direct Direction Website** | Service site for domestic worker agency | React |
 
-More on my [LinkedIn projects](https://www.linkedin.com/in/sami-ibrahim-370289359/) & pinned repos below.
-
 ---
 
 ### GitHub Stats
 
-<p>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Okami0x0&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okami0x0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Okami0x0&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okami0x0&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
