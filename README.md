@@ -55,7 +55,7 @@ More on my [LinkedIn projects](https://www.linkedin.com/in/sami-ibrahim-37028935
 
 ### Reach me
 
-- Riyadh, Saudi Arabia — open to **Software Engineer / Full Stack / IT** roles (onsite preferred, remote ok) — 4000+ SAR
+- Riyadh, Saudi Arabia — open to **Software Engineer / Full Stack / IT** roles (onsite preferred, remote ok)
 - LinkedIn: https://www.linkedin.com/in/sami-ibrahim-370289359/
 - Email: sami.yousuf.ibrahim@gmail.com
 
