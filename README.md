@@ -43,8 +43,9 @@ I work across the full stack — React & JavaScript for web, Flutter & Dart for 
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Okami0x0&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okami0x0&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Okami0x0&theme=tokyonight&hide_border=true)
+![Contributions](https://ghchart.rshah.org/Okami0x0)
+![Followers](https://img.shields.io/github/followers/Okami0x0?style=social)
 
 ---
 
