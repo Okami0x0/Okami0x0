@@ -1,4 +1,4 @@
-# Hi, I'm Sami 👋 — Software Engineer
+# Hi, I'm Sami  — Software Dev
 
 <a href="https://www.linkedin.com/in/sami-ibrahim-370289359/"><img align="right" src="https://github.com/Okami0x0.png" width="140" style="border-radius:50%" /></a>
 
